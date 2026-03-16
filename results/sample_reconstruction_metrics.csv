@@ -1,0 +1,4 @@
+Method,Fidelity,Purity,Pred rx,Pred ry,Pred rz
+Neural Network,0.9984,1.0,0.7354,-0.5975,-0.3197
+Bayesian,0.9883,0.9977,0.6467,-0.6467,-0.3987
+Compressed Sensing,0.9993,1.0,0.7497,-0.5927,-0.2944
